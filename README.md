@@ -1,7 +1,14 @@
+Hey! I am a backend developer with 4+ years of experience in building softwares with Python, Django and Wagtail.
+
+My most recent work was with [RemoteInning](https://www.remoteinning.com/); Where I worked as a core developer for [OpenTechFund](https://www.opentech.fund/) and [ItalyMondo!](https://italymondo.com/) but also helped out other partners like [TheMotelyFool](https://www.fool.com/) and [CIGI](https://www.opentech.fund/) from time to time.
+
+Before RemoteInning, I worked at Appknox and before that I was part of [Google Summer of Code](https://summerofcode.withgoogle.com/) programm in 2018, working again with Python and Django for the most part.
+
+
 ![SKS's github stats](https://github-readme-stats.vercel.app/api?username=sks444&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sks444&layout=compact)
 
-### 📝 Latest articles published at [remoteinning.com](http://remoteinning.com/)
+### 📝 Articles published at [remoteinning.com](http://remoteinning.com/)
 
 * January 28, 2021 [How to safely remove a Django model and its relations](https://www.remoteinning.com/blog/how-to-safely-remove-django-model-and-its-relations) 
 * November 5, 2020 [Data migrations in Django 101](https://www.remoteinning.com/blog/data-migrations-in-django-101) 

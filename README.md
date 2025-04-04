@@ -1,4 +1,4 @@
-Hey! I am a backend developer with 4+ years of experience in building softwares with Python, Django and Wagtail.
+Hey! I am a backend developer with 6+ years of experience in building softwares with Python, Django and Wagtail.
 
 My most recent work was with [RemoteInning](https://www.remoteinning.com/); Where I worked as a core developer for [OpenTechFund](https://www.opentech.fund/) and [ItalyMondo!](https://italymondo.com/) but also helped out other partners like [TheMotelyFool](https://www.fool.com/) and [CIGI](https://www.opentech.fund/) from time to time.
 
